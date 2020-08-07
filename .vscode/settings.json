@@ -1,3 +1,7 @@
 {
-    "liveServer.settings.CustomBrowser": "chrome"
+    "liveServer.settings.CustomBrowser": "chrome",
+    "git.allowForcePush": true,
+    "git.autofetch": true,
+    "git.alwaysSignOff": true,
+    "git.autoStash": true
 }
