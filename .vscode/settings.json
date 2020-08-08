@@ -3,5 +3,8 @@
     "git.allowForcePush": true,
     "git.autofetch": true,
     "git.alwaysSignOff": true,
-    "git.autoStash": true
+    "git.autoStash": true,
+    "previewServer.browsers": [
+        "chrome"
+    ]
 }
